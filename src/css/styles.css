@@ -51,7 +51,7 @@ header{
     padding-right: 14%;
     padding-bottom: 3%;
     background-color: rgb(243, 243, 243);
-    height: 60vh;
+    height: 52vh;
 }
 
 #schedule_larger{
@@ -93,7 +93,7 @@ a:hover{
     font-size: 1.5vh;
     font-weight: bolder;
     transform: translate(2.7vh,0h);
-    -webkit-transform: translate(3.7vh,-1vh);
+    -webkit-transform: translate(3.7vh,0vh);
 }
 
 #schedule_small_dark1{
@@ -102,7 +102,7 @@ a:hover{
     font-size: 1.5vh;
     font-weight: bolder;
     transform: translate(22.4vh,-2.9vh);
-    -webkit-transform: translate(22.4vh,-2.9vh);
+    -webkit-transform: translate(22.4vh,-1.9vh);
 }
 
 .img_nurse{
@@ -120,7 +120,7 @@ a:hover{
 .img_star{
     display: block;
     transform: scale(0.26) translate(-96%,-3010%);
-    -webkit-transform: scale(0.26) translate(-96%,-3010%);
+    -webkit-transform: scale(0.26) translate(-40%,-3010%);
 }
 
 .schedule_date{
@@ -130,13 +130,13 @@ a:hover{
     font-size: 1.8vh;
     font-weight: normal;
     transform: translate(65.8vh,-2100%);
-    -webkit-transform: translate(65.8vh,-2100%);
+    -webkit-transform: translate(19vh,-1400%);
     width: fit-content;
 }
 
 .img_brands{
     transform: scale(0.46) translate(-20%,0%);
-    -webkit-transform: scale(0.46) translate(-20%,0%);
+    -webkit-transform: scale(0.46) translate(-50%,0%);
 }
 
 .info{
@@ -225,7 +225,7 @@ a:hover{
     padding-right: 14%;
     padding-bottom: 0%;
     transform: translate(0%,-1%);
-    -webkit-transform: translate(0%,-1%);
+    -webkit-transform: translate(0%,190%);
 }
 
 .title_prep{
@@ -239,7 +239,7 @@ a:hover{
 .img_prep{
     display: block;
     transform: scale(0.6) translate(-34%,-184%);
-    -webkit-transform: scale(0.6) translate(-34%,-184%);
+    -webkit-transform: scale(0.6) translate(-34%,-450%);
 }
 
 .prep{
